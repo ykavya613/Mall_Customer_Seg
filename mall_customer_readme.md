@@ -130,7 +130,7 @@ streamlit run app.py
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
-- Streamlit (for deployment)
+- Streamlit (app.py for deployment)
 
 ---
 
