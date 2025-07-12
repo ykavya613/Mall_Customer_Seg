@@ -8,7 +8,7 @@ This project performs customer segmentation for a mall business using unsupervis
 
 - **Program:** Summer Internship program 2025
 - **Organizer:** Bharatversity
-- **Duration:** 45 Days
+- **Duration:** 7 weeks
 - Domain : Data Science
 - **Project Title:** Mall Customer Segmentation using Machine Learning
 - **Intern:** yelugu kavya
